@@ -1,0 +1,1 @@
+### Given is a dataset of housing prices with some features like number of rooms, etc. Your mission, if you choose to accept it, is to create a machine learning model which will predict the price for any new house by looking at the features.
