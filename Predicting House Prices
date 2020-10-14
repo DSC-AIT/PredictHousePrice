@@ -1,0 +1,2 @@
+Here it is a given dataset of housing prices with some features like no. of rooms, etc.
+The task is to create a ML model which will predict the price for any new house by looking at the features.
