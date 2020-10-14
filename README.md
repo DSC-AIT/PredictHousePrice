@@ -1,4 +1,4 @@
-# ML-Project 🤖
+# Predict house prices 🤖
 
 ## Welcome to the Machine Learning project repo!
 
