@@ -17,3 +17,5 @@ This takes all the changes on this repo and applies them to the fork to keep the
 ### RULES:
 
 **-** No explicit content
+
+**-** Never make a PR on the main branch. Such PRs will be marked invalid.

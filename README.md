@@ -2,7 +2,7 @@
 
 ## Welcome to the Machine Learning project repo!
 
-This is a beginner-level machine learning problem to be solved in Python
+This is a beginner-level machine learning problem to be solved in Python.
 You may use the python libraries such as pandas, sklearn, scipy, matplotlib, numpy, etc.
 
 If this is your first time contributing to open-source and you know the basics of Python and machine learning then this is the place for you!
