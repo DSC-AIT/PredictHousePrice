@@ -18,4 +18,4 @@ This takes all the changes on this repo and applies them to the fork to keep the
 
 **-** No explicit content
 
-**-** Never make a PR on the main branch. Such PRs will be marked invalid.
+**-** Never make a PR on the main branch. Such PRs will be ignored
