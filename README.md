@@ -7,7 +7,7 @@ You may use the python libraries such as pandas, sklearn, scipy, matplotlib, num
 
 If this is your first time contributing to open-source and you know the basics of Python and machine learning then this is the place for you!
 
-Take a look at the [Contributing](CONTRIBUTING.md) guide for ways to contribute to the project.
+Take a look at the [Contributing guide](CONTRIBUTING.md) for ways to contribute to the project.
 
 ### Instructions For Use:
 
